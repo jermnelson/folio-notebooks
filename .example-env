@@ -1,0 +1,7 @@
+export OKAPI_URL=https://okapi-url
+export OKAPI_USER=username
+export OKAPI_PASSWORD=password
+export TENANT=tenant
+export METADB_URL=metadb_url
+export METADB_USER=metadb_user
+export METADB_PASSWORD=metdatadb_user_password
