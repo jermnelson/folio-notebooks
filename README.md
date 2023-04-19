@@ -21,7 +21,7 @@ export METADB_PASSWORD=metdatadb_user_password
 To run these examples, you'll need a version of Python 3.10 or later installed on your local
 machine.
 
-1. Copy or clone this repository `git clone ...`
+1. Copy or clone this repository `git clone https://github.com/jermnelson/folio-notebooks`
 1. Create a Python virtual environment `python3 -m venv folio-env`
 1. Activate the virtual environment `source folio-env/bin/activate`
 1. Source the .env file `source .env`
