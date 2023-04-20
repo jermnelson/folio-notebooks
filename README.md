@@ -26,7 +26,7 @@ machine.
 1. Activate the virtual environment `source folio-env/bin/activate`
 1. Source the .env file `source .env`
 1. Install the dependencies using pip, `pip install -r requirements.txt`
-1. Launch Jupyter lab `jupyter lab`
+1. Launch Jupyter lab `jupyter-lab`
 
 [JPTY]: https://jupyter.org/
 [FOLIO]: https://www.folio.org/
